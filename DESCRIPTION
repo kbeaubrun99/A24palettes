@@ -1,0 +1,15 @@
+Package: A24palettes
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Kiera",
+           family = "Beaubrun",
+           role = c("aut", "cre"),
+           email = "kierab@usf.edu",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Contains color palettes from popular A24 movies that can be used with ggplot graphs. 
+License: MIT License
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1.9001
